@@ -5,8 +5,8 @@
 package tales.of.knights;
 
 /**
- *
- * @author cobbi
+ * This is where the main program runs
+ * @author cobbina
  */
 public class TalesOfKnights {
 
